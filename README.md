@@ -1,5 +1,7 @@
 # PowerBI_HR_Management_Dashboard
 
+**Note: Positions and Areas of the table are in PT-BR language because the data is direct from the company's original dataframe.**
+
 [Simulation] Interactive dashboard related to the complete control of employees of a Brazilian company. This dashboard contains 2 analysis tabs, in the main tab there is the following information:
 
 - Total number of hires per period
